@@ -28,9 +28,6 @@ The goal was to identify common security issues and understand their impact and 
 - Remove sensitive or unnecessary comments from production code
 - Follow secure coding best practices
 
-## 📄 Report
-A detailed security testing report with findings and mitigation strategies is included.
-
 ## ⚠ Disclaimer
 This testing was performed **only on an intentionally vulnerable application** for educational purposes.  
 No real-world systems were harmed or targeted.
