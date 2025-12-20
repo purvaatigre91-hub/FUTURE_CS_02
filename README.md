@@ -1,7 +1,7 @@
 # FUTURE_CS_02
 # Web Application Security Testing – OWASP ZAP
 📌 Project Overview 
-This project demonstrates basic <html><head> project <itle> web </itle> </head> <body> <b>web application security testing </b> </body> </html> performed on a deliberately vulnerable web application using **OWASP ZAP**.  
+This project demonstrates basic <html><head> project <itle> </itle> </head> <body> <b>web application security testing </b> </body> </html> performed on a deliberately vulnerable web application using **OWASP ZAP**.  
 The goal was to identify common security issues and understand their impact and mitigation.
 
 ## 🎯 Target Application
